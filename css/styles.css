@@ -101,8 +101,7 @@ h4, p {
     }
 
     .container #price{
-        padding: .75rem 2rem; 
-        /*change 1st rem value, investigate why size is different*/
+        padding: 1.80rem 2rem;
     }
 
     .container .why-us {
